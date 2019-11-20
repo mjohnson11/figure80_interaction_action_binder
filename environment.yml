@@ -1,0 +1,8 @@
+name: figure80_env1
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
